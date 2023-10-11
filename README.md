@@ -32,6 +32,7 @@ pip3 install -r requirements.txt #installing the env
 - Input api keys at SolidGPT/solidgpt/src/configuration/Configuration.yaml
 
     - input your openai api token 
+    - nice to have
 
     - (optional)input your notion token and page id
 - Set project root folder as python path
